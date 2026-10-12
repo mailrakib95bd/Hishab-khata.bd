@@ -1,0 +1,20 @@
+# Secrets / signing
+*.keystore
+*.jks
+key.properties
+.env
+google-services.json
+GoogleService-Info.plist
+# Flutter / Dart (future)
+.dart_tool/
+build/
+.flutter-plugins*
+.packages
+*.iml
+.idea/
+# OS
+.DS_Store
+# Legacy artefacts
+legacy/node_modules/
+legacy/www/
+legacy/android/
